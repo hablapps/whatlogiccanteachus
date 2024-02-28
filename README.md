@@ -1,6 +1,6 @@
 This repository contains the slides and notebooks used in the talk: 
 
-[What logic can teach us, Scala programmers](https://docs.google.com/presentation/d/1ObF_g2-YPN1Hls71JdsquQREMaI59k_ILuWfw3C21j8/edit?usp=sharing)
+[What logic can teach us, Scala programmers](https://docs.google.com/presentation/d/1ObF_g2-YPN1Hls71JdsquQREMaI59k_ILuWfw3C21j8/edit?usp=sharing) ([video](https://www.youtube.com/watch?v=ZgZUFomu8pQ))
 
 This talk was part of the conference [ScalaCon Fall 2022](http://www.scalacon.org/)
 
